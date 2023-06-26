@@ -10,9 +10,6 @@ Como parte dos requisitos da disciplina, este projeto foi criado para desenvolve
 
 Agradeço ao corpo docente da disciplina por fornecer orientações e conhecimentos valiosos durante o desenvolvimento deste projeto.
 
-
-
-
 ## Funcionalidades
 
 - Permite que os usuários realizem o login utilizando suas credenciais.
@@ -40,3 +37,47 @@ Se você tiver alguma dúvida ou sugestão sobre este projeto, fique à vontade 
 - Email: [sr.matheus.mesquita@gmail.com](mailto:sr.matheus.mesquita@gmail.com)
 
 Espero que este projeto seja útil e inspire outros desenvolvedores. Agradeço por visitar este repositório!
+
+
+---
+
+# Login Screen using React
+
+This is a project for a simple login screen developed in React. The purpose of this project is to demonstrate my development skills and serve as an example for my portfolio.
+
+## Academic Context
+
+This project was developed as part of the Special Topics in Web Development course at [Federal Institute of Education, Science and Technology of Ceará (IFCE)]. The objective of the project is to apply the knowledge acquired during the course and demonstrate web development skills using the React library.
+
+As part of the course requirements, this project was created to develop a simple login screen using React and following best web development practices. It also serves as an opportunity to learn how to use popular libraries and frameworks such as Material-UI.
+
+I thank the faculty of the discipline for providing guidance and valuable knowledge during the development of this project.
+
+## Features
+
+- Allows users to log in using their credentials.
+- Intuitive and responsive user interface.
+- Utilizes Material-UI components for a modern look.
+
+## License
+
+This project is licensed under the MIT License. Please refer to the [LICENSE](./LICENSE) file for more information.
+
+## Asset Usage
+
+The images used in this project were obtained from free image banks, ensuring compliance with their respective usage licenses. Please make sure to check the specific usage conditions for each image.
+
+The Material-UI components used follow the guidelines and terms of use established by Material-UI. Please refer to the Material-UI documentation for more information on proper component usage.
+
+## Contribution
+
+Contributions are welcome! If you would like to contribute to this project, feel free to open an issue or submit a pull request.
+
+## Contact
+
+If you have any questions or suggestions regarding this project, feel free to contact me through the following channels:
+
+- Email: [sr.matheus.mesquita@gmail.com](mailto:sr.matheus.mesquita@gmail.com)
+
+
+I hope this project is helpful and inspires other developers. Thank you for visiting this repository!
