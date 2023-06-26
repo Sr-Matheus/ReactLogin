@@ -1,5 +1,7 @@
 # Tela de Login usando React
 
+![](./ReactLogin/public/Mui_Login.png)
+
 Este é um projeto de uma tela de login simples desenvolvida em React. O objetivo deste projeto é demonstrar minhas habilidades de desenvolvimento e servir como um exemplo para meu portfólio.
 
 ## Contexto Acadêmico
