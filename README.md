@@ -36,7 +36,7 @@ Espero que este projeto seja útil e inspire outros desenvolvedores. Agradeço p
 
 # Login Screen using React
 
-![](./ReactLogin/public/Mui_Login.png)
+![](./ReactLogin/public/Mui_Login_2.png)
 
 This project was developed as part of the Special Topics in Web Development course at Federal Institute of Education, Science and Technology of Ceará (IFCE). The objective of the project is to apply the knowledge acquired during the course and demonstrate web development skills using the React library.
 
