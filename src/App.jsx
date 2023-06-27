@@ -26,7 +26,7 @@ function App() {
 
   return (
     <>
-      <Box sx={{display: 'flex', '& > :not(style)': { m: 1, width: 500, height: 500,},}}>
+      <Box className="container" sx={{display: 'flex', '& > :not(style)': { m: 1, width: 500, height: 500,},}}>
         
         <Paper elevation={24} className='paper' >
             <div className='content'>
