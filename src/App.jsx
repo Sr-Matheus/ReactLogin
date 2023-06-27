@@ -18,6 +18,12 @@ import Button from '@mui/material/Button';
 
 function App() {
 
+  function signin()
+  {
+    alert('Obrigado por testar!');
+  }
+
+
   return (
     <>
       <Box sx={{display: 'flex', '& > :not(style)': { m: 1, width: 500, height: 500,},}}>
@@ -35,7 +41,7 @@ function App() {
               </Box>
           </div>
           
-          <Button className='button' variant="contained">Entrar</Button>
+          <Button className='button' variant="contained" onClick={() => signin() }>Entrar</Button>
           
         </Paper>
           
