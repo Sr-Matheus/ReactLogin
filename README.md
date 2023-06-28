@@ -38,6 +38,12 @@ Se você tiver alguma dúvida ou sugestão sobre este projeto, fique à vontade 
 
 Espero que este projeto seja útil e inspire outros desenvolvedores. Agradeço por visitar este repositório!
 
+##
+
+[![React](https://img.shields.io/badge/React-18.2.0-blue?logo=react)](https://reactjs.org/)
+[![VS Code](https://img.shields.io/badge/VS%20Code-1.79.2-blue?logo=visual-studio-code)](https://code.visualstudio.com/)
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-%E2%86%92-blue.svg?logo=github&style=flat-square)](https://sr-matheus.github.io/ReactLogin/)
+
 
 ---
 
@@ -79,3 +85,9 @@ If you have any questions or suggestions regarding this project, feel free to co
 
 
 I hope this project is helpful and inspires other developers. Thank you for visiting this repository!
+
+##
+
+[![React](https://img.shields.io/badge/React-18.2.0-blue?logo=react)](https://reactjs.org/)
+[![VS Code](https://img.shields.io/badge/VS%20Code-1.79.2-blue?logo=visual-studio-code)](https://code.visualstudio.com/)
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-%E2%86%92-blue.svg?logo=github&style=flat-square)](https://sr-matheus.github.io/ReactLogin/)
